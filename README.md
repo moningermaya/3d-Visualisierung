@@ -1,2 +1,2 @@
-# 3d-Visualisierung
+# 3D-Visualisierung
 alle möglichen Abgaben
